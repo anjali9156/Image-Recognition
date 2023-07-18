@@ -50,7 +50,7 @@ Contributions to this project are welcome! If you find any issues, have ideas fo
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-- Name: [Anjali](#anjali)
+- Name: [Anjali](https://github.com/anjali9156/Portfolio)
 - Email: anjaliduhan06@gmail.com
 
 I would love to hear from you and are open to any discussions or collaborations related to this project.
